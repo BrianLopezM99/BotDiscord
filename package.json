@@ -1,0 +1,25 @@
+{
+  "name": "clientdiscord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord.js": "^12.5.1",
+    "distube": "^2.8.8",
+    "new-user-spam-client-for-discord": "^1.0.0",
+    "youtube-search": "^1.1.4",
+    "youtube-search-api": "^1.0.8",
+    "yt-search": "^2.5.2"
+  },
+  "devDependencies": {
+    "ffmpeg-static": "^4.2.7",
+    "nodemon": "^2.0.7"
+  }
+}
